@@ -2,6 +2,7 @@
 
 Esse programa monitora o ruido do microfone.
 É interessante para uso em empresas de atendimento (CallCenters) onde é importante saber se o microfone está mutado ou não.
+Bom para trabalhar em conjunto com MicMute, vai ter um feedback melhor do microfone e o ruído.
 
 ## Como ele funciona?❓
 
